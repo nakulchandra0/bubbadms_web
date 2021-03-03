@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-01 05:48:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 08:52:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 09:30:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 09:48:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 09:48:01 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2020-07-01 09:48:07 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-01 09:51:36 --> 404 Page Not Found: Git/HEAD
+ERROR - 2020-07-01 10:25:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 10:57:02 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-07-01 10:57:02 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-07-01 10:57:03 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-07-01 10:57:03 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-07-01 10:57:03 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-07-01 10:57:04 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-07-01 10:57:04 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-07-01 10:57:04 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-07-01 10:57:04 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-07-01 10:57:04 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-07-01 10:57:05 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-07-01 10:57:05 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-07-01 10:57:05 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-07-01 10:57:05 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-07-01 11:38:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 11:46:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 12:33:56 --> 404 Page Not Found: Img/slider_02.png
+ERROR - 2020-07-01 15:54:34 --> 404 Page Not Found: Owa/auth
+ERROR - 2020-07-01 16:41:18 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-01 16:52:34 --> 404 Page Not Found: Contactphp/index
+ERROR - 2020-07-01 17:29:18 --> 404 Page Not Found: Contactphp/index
+ERROR - 2020-07-01 17:29:19 --> 404 Page Not Found: Contactphp/index
+ERROR - 2020-07-01 17:29:19 --> 404 Page Not Found: Contactphp/index
+ERROR - 2020-07-01 17:29:20 --> 404 Page Not Found: Contactphp/index
+ERROR - 2020-07-01 20:07:25 --> 404 Page Not Found: Contactphp/index
+ERROR - 2020-07-01 20:47:04 --> 404 Page Not Found: Solr/index
+ERROR - 2020-07-01 21:05:43 --> 404 Page Not Found: Solr/index

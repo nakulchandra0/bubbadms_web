@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-05-23 06:57:50 --> 404 Page Not Found: Passwordhtml/index
+ERROR - 2020-05-23 07:40:11 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 07:42:41 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 07:44:51 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 07:46:59 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 07:48:08 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 07:49:41 --> 404 Page Not Found: Dealer/index
+ERROR - 2020-05-23 09:54:49 --> 404 Page Not Found: Start-dealhtml/index
+ERROR - 2020-05-23 09:55:03 --> 404 Page Not Found: Assets/images
+ERROR - 2020-05-23 09:56:14 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 09:57:07 --> 404 Page Not Found: Assets/images
+ERROR - 2020-05-23 09:57:08 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 09:57:17 --> 404 Page Not Found: Assets/images
+ERROR - 2020-05-23 09:57:21 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 10:01:46 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 11:07:51 --> 404 Page Not Found: Start-dealhtml/index
+ERROR - 2020-05-23 11:09:08 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 12:18:17 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 12:18:54 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 12:19:55 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 12:23:04 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 12:58:57 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 13:00:31 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 13:03:41 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 13:06:57 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 13:49:07 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 13:49:34 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 13:54:15 --> 404 Page Not Found: Assets/js
+ERROR - 2020-05-23 13:54:34 --> 404 Page Not Found: Assets/js

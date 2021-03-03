@@ -1,0 +1,154 @@
+[18-May-2020 15:01:18 UTC] PHP Fatal error:  Call to a member function get_where() on null in /home/cipher123/public_html/bubbadms-web/application/controllers/Home.php on line 68
+[19-May-2020 08:11:07 UTC] PHP Fatal error:  Call to undefined function crypto_rand_secure() in /home/cipher123/public_html/bubbadms-web/application/controllers/Home.php on line 144
+[22-May-2020 12:31:52 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/cipher123/public_html/bubbadms-web/application/config/email.php on line 7
+[27-May-2020 11:06:07 UTC] PHP Fatal error:  Cannot redeclare Startdeal::mathupdate() in /home/cipher123/public_html/bubbadms-web/application/controllers/Startdeal.php on line 212
+[27-May-2020 16:44:19 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/cipher123/public_html/bubbadms-web/application/helpers/language_helper.php on line 307
+[27-May-2020 16:46:39 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/cipher123/public_html/bubbadms-web/application/helpers/language_helper.php on line 307
+[01-Jun-2020 07:25:58 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/cipher123/public_html/bubbadms-web/application/controllers/Startdeal.php on line 29
+[03-Jun-2020 09:22:06 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/cipher123/public_html/bubbadms-web/application/libraries/Paypal.php on line 111
+[03-Jun-2020 09:24:57 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/cipher123/public_html/bubbadms-web/application/libraries/Paypal.php on line 111
+[03-Jun-2020 09:28:28 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/cipher123/public_html/bubbadms-web/application/libraries/Paypal.php on line 111
+[03-Jun-2020 09:36:16 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/cipher123/public_html/bubbadms-web/application/libraries/Paypal.php on line 111
+[03-Jun-2020 09:36:18 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/cipher123/public_html/bubbadms-web/application/libraries/Paypal.php on line 111
+[03-Jun-2020 09:36:25 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/cipher123/public_html/bubbadms-web/application/libraries/Paypal.php on line 111
+[03-Jun-2020 09:37:49 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/cipher123/public_html/bubbadms-web/application/libraries/Paypal.php on line 111
+[03-Jun-2020 09:37:50 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/cipher123/public_html/bubbadms-web/application/libraries/Paypal.php on line 111
+[03-Jun-2020 09:38:10 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/cipher123/public_html/bubbadms-web/application/libraries/Paypal.php on line 111
+[03-Jun-2020 09:47:47 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/cipher123/public_html/bubbadms-web/application/models/Crud_model.php on line 115
+[03-Jun-2020 11:31:11 UTC] PHP Parse error:  syntax error, unexpected '$userdata' (T_VARIABLE) in /home/cipher123/public_html/bubbadms-web/application/controllers/Home.php on line 308
+[03-Jun-2020 11:41:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/cipher123/public_html/bubbadms-web/application/controllers/Home.php on line 312
+[03-Jun-2020 12:07:00 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/cipher123/public_html/bubbadms-web/application/controllers/Home.php on line 574
+[03-Jun-2020 12:07:10 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/cipher123/public_html/bubbadms-web/application/controllers/Home.php on line 574
+[03-Jun-2020 13:51:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/cipher123/public_html/bubbadms-web/application/controllers/Dealer.php on line 73
+[03-Jun-2020 13:52:41 UTC] PHP Parse error:  syntax error, unexpected '$updated' (T_VARIABLE) in /home/cipher123/public_html/bubbadms-web/application/controllers/Dealer.php on line 73
+[04-Jun-2020 14:26:37 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/cipher123/public_html/bubbadms-web/application/controllers/Startdeal.php on line 398
+[05-Jun-2020 12:00:18 UTC] PHP Parse error:  syntax error, unexpected 'helvetica' (T_STRING) in /home/cipher123/public_html/bubbadms-web/application/controllers/Home.php on line 258
+[05-Jun-2020 12:01:30 UTC] PHP Parse error:  syntax error, unexpected 'helvetica' (T_STRING) in /home/cipher123/public_html/bubbadms-web/application/controllers/Home.php on line 258
+[05-Jun-2020 12:02:15 UTC] PHP Parse error:  syntax error, unexpected 'helvetica' (T_STRING) in /home/cipher123/public_html/bubbadms-web/application/controllers/Home.php on line 258
+[05-Jun-2020 12:08:16 UTC] PHP Parse error:  syntax error, unexpected 'helvetica' (T_STRING) in /home/cipher123/public_html/bubbadms-web/application/controllers/Home.php on line 258
+[05-Jun-2020 12:08:19 UTC] PHP Parse error:  syntax error, unexpected 'helvetica' (T_STRING) in /home/cipher123/public_html/bubbadms-web/application/controllers/Home.php on line 258
+[05-Jun-2020 12:08:21 UTC] PHP Parse error:  syntax error, unexpected 'helvetica' (T_STRING) in /home/cipher123/public_html/bubbadms-web/application/controllers/Home.php on line 258
+[05-Jun-2020 12:09:18 UTC] PHP Parse error:  syntax error, unexpected '"http://www.w3.org/TR/xhtml1/D' (T_CONSTANT_ENCAPSED_STRING) in /home/cipher123/public_html/bubbadms-web/application/models/Crud_model.php on line 618
+[05-Jun-2020 12:12:26 UTC] PHP Parse error:  syntax error, unexpected '"http://www.w3.org/TR/xhtml1/D' (T_CONSTANT_ENCAPSED_STRING) in /home/cipher123/public_html/bubbadms-web/application/models/Crud_model.php on line 595
+[09-Jun-2020 14:28:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/cipher123/public_html/bubbadms-web/application/controllers/Admin.php on line 36
+[10-Jun-2020 15:41:39 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /home/cipher123/public_html/bubbadms-web/application/views/login.php on line 36
+[11-Jun-2020 11:11:54 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/cipher123/public_html/bubbadms-web/application/controllers/Inventoryarea.php on line 144
+[11-Jun-2020 11:12:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/cipher123/public_html/bubbadms-web/application/controllers/Inventoryarea.php on line 146
+[11-Jun-2020 11:12:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/cipher123/public_html/bubbadms-web/application/controllers/Inventoryarea.php on line 146
+[12-Jun-2020 12:14:53 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/cipher123/public_html/bubbadms-web/application/controllers/Startdeal.php on line 602
+[12-Jun-2020 13:27:29 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::order_by() in /home/cipher123/public_html/bubbadms-web/application/controllers/Reports.php on line 27
+[12-Jun-2020 13:33:44 UTC] PHP Fatal error:  Cannot use object of type mysqli as array in /home/cipher123/public_html/bubbadms-web/application/views/reports.php on line 79
+[12-Jun-2020 13:34:01 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/cipher123/public_html/bubbadms-web/application/controllers/Reports.php on line 29
+[12-Jun-2020 13:37:22 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/cipher123/public_html/bubbadms-web/application/controllers/Reports.php on line 34
+[12-Jun-2020 14:46:43 UTC] PHP Parse error:  syntax error, unexpected 'date' (T_STRING) in /home/cipher123/public_html/bubbadms-web/application/controllers/Reports.php on line 45
+[13-Jun-2020 14:08:15 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cipher123/public_html/bubbadms-web/application/controllers/Admin.php on line 137
+[26-Jun-2020 10:48:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/cipher123/public_html/bubbadms-web/application/controllers/Startdeal.php on line 495
+[07-Jul-2020 09:26:45 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/bubbadms/public_html/application/controllers/Startdeal.php on line 922
+[07-Jul-2020 09:27:20 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/bubbadms/public_html/application/controllers/Startdeal.php on line 922
+[09-Jul-2020 14:28:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 14:29:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 14:31:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 14:31:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 14:31:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 14:33:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 14:33:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 14:33:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 20:14:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 20:14:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 20:14:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 20:14:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 20:15:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 20:20:49 Asia/Calcutta] PHP Fatal error:  Call to undefined function phpdefined() in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 20:21:02 Asia/Calcutta] PHP Fatal error:  Call to undefined function phpdefined() in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 20:21:06 Asia/Calcutta] PHP Fatal error:  Call to undefined function phpdefined() in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 20:22:51 Asia/Calcutta] PHP Fatal error:  Call to undefined function phpdefined() in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 20:30:50 Asia/Calcutta] PHP Fatal error:  Call to undefined function phpdefined() in /home/bubbadms/public_html/application/controllers/api/Login.php on line 1
+[09-Jul-2020 20:32:26 Asia/Calcutta] PHP Fatal error:  Call to undefined function phpdefined() in /home/bubbadms/public_html/application/controllers/api/Dologin.php on line 1
+[09-Jul-2020 20:32:30 Asia/Calcutta] PHP Fatal error:  Call to undefined function phpdefined() in /home/bubbadms/public_html/application/controllers/api/Dologin.php on line 1
+[10-Jul-2020 16:07:47 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ']' in /home/bubbadms/public_html/application/controllers/api/Signup.php on line 29
+[10-Jul-2020 16:08:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ']' in /home/bubbadms/public_html/application/controllers/api/Signup.php on line 41
+[13-Jul-2020 14:01:32 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on boolean in /home/bubbadms/public_html/application/controllers/api/Packagelist.php on line 22
+[13-Jul-2020 15:43:28 Asia/Calcutta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/bubbadms/public_html/system/libraries/Form_validation.php on line 1122
+[13-Jul-2020 15:44:42 Asia/Calcutta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/bubbadms/public_html/system/libraries/Form_validation.php on line 1122
+[14-Jul-2020 13:30:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bubbadms/public_html/application/views/reports.php on line 83
+[15-Aug-2020 13:20:28 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/bubbadms/public_html/application/views/admin/viewdealer.php on line 435
+[15-Aug-2020 13:20:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/bubbadms/public_html/application/views/admin/viewdealer.php on line 435
+[15-Aug-2020 13:20:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/bubbadms/public_html/application/views/admin/viewdealer.php on line 435
+[15-Aug-2020 13:46:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/bubbadms/public_html/application/controllers/Admin.php on line 167
+[20-Aug-2020 13:58:10 Asia/Calcutta] PHP Fatal error:  Cannot use [] for reading in /home/bubbadms/public_html/application/controllers/api/Buyerarea.php on line 80
+[21-Aug-2020 15:41:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/bubbadms/public_html/application/controllers/Startdeal.php on line 1011
+[21-Aug-2020 15:43:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/bubbadms/public_html/application/controllers/Startdeal.php on line 1015
+[21-Aug-2020 17:25:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$phoneNumber' (T_VARIABLE) in /home/bubbadms/public_html/application/controllers/Startdeal.php on line 908
+[21-Aug-2020 17:26:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$phoneNumber' (T_VARIABLE) in /home/bubbadms/public_html/application/controllers/Startdeal.php on line 909
+[21-Aug-2020 17:27:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bubbadms/public_html/application/controllers/Startdeal.php on line 912
+[21-Aug-2020 17:56:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/bubbadms/public_html/application/controllers/Startdeal.php on line 1039
+[21-Aug-2020 18:01:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/bubbadms/public_html/application/controllers/Startdeal.php on line 1090
+[22-Aug-2020 15:25:08 Asia/Calcutta] PHP Fatal error:  Call to undefined function resizeImage() in /home/bubbadms/public_html/application/controllers/api/Editprofileimage.php on line 56
+[24-Aug-2020 16:38:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$dealdata' (T_VARIABLE) in /home/bubbadms/public_html/application/controllers/api/Reportlist.php on line 28
+[24-Aug-2020 16:38:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$dealdata' (T_VARIABLE) in /home/bubbadms/public_html/application/controllers/api/Reportlist.php on line 28
+[24-Aug-2020 16:38:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$dealdata' (T_VARIABLE) in /home/bubbadms/public_html/application/controllers/api/Reportlist.php on line 28
+[26-Aug-2020 16:08:20 Asia/Calcutta] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bubbadms/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[26-Aug-2020 16:08:20 Asia/Calcutta] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bubbadms/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[26-Aug-2020 16:08:20 Asia/Calcutta] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bubbadms/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[26-Aug-2020 16:13:22 Asia/Calcutta] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bubbadms/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[26-Aug-2020 16:13:22 Asia/Calcutta] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bubbadms/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[26-Aug-2020 16:13:23 Asia/Calcutta] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bubbadms/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[26-Aug-2020 16:14:17 Asia/Calcutta] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bubbadms/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[26-Aug-2020 16:14:30 Asia/Calcutta] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bubbadms/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[26-Aug-2020 16:14:35 Asia/Calcutta] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bubbadms/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[26-Aug-2020 16:15:22 Asia/Calcutta] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bubbadms/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[01-Sep-2020 15:53:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$valid' (T_VARIABLE) in /home/bubbadms/public_html/application/controllers/api/Insertdealprint.php on line 215
+[01-Sep-2020 16:13:52 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3151
+[01-Sep-2020 16:31:08 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 180 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/classes/mpdfform.php on line 151
+[01-Sep-2020 16:53:34 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 1000 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3046
+[01-Sep-2020 17:13:08 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 1000 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/classes/mpdfform.php on line 150
+[01-Sep-2020 17:29:51 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 1000 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3046
+[01-Sep-2020 17:46:34 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 1000 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/classes/mpdfform.php on line 151
+[01-Sep-2020 17:59:19 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 1000 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3150
+[01-Sep-2020 18:03:17 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 1000 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 11757
+[01-Sep-2020 18:09:16 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 1000 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3037
+[01-Sep-2020 18:12:11 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 1000 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3046
+[01-Sep-2020 18:13:32 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 1000 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3154
+[01-Sep-2020 18:15:08 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 1000 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3047
+[01-Sep-2020 18:20:36 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 1000 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/classes/mpdfform.php on line 151
+[01-Sep-2020 18:40:37 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 1000 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/classes/mpdfform.php on line 151
+[01-Sep-2020 19:20:35 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3046
+[02-Sep-2020 12:20:49 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3047
+[02-Sep-2020 12:51:20 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3046
+[02-Sep-2020 14:29:52 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3046
+[02-Sep-2020 15:14:23 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3041
+[02-Sep-2020 15:24:41 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/classes/mpdfform.php on line 150
+[02-Sep-2020 15:30:39 Asia/Calcutta] PHP Fatal error:  Call to undefined method Pdf::load_view() in /home/bubbadms/public_html/application/controllers/api/Insertdealprint.php on line 453
+[02-Sep-2020 15:46:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/bubbadms/public_html/application/libraries/dompdf/src/Dompdf.php on line 356
+[02-Sep-2020 15:52:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/bubbadms/public_html/application/libraries/dompdf/src/Dompdf.php on line 389
+[02-Sep-2020 15:53:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/bubbadms/public_html/application/libraries/dompdf/src/Adapter/CPDF.php on line 193
+[02-Sep-2020 15:55:46 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/bubbadms/public_html/application/libraries/dompdf/src/Adapter/CPDF.php on line 841
+[02-Sep-2020 15:56:03 Asia/Calcutta] PHP Fatal error:  Class 'Cpdf' not found in /home/bubbadms/public_html/application/libraries/dompdf/src/Adapter/CPDF.php on line 198
+[02-Sep-2020 15:56:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/bubbadms/public_html/application/libraries/dompdf/src/Adapter/CPDF.php on line 841
+[02-Sep-2020 15:57:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/bubbadms/public_html/application/libraries/dompdf/src/Helpers.php on line 554
+[02-Sep-2020 15:58:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/bubbadms/public_html/application/libraries/dompdf/src/Helpers.php on line 598
+[02-Sep-2020 15:58:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/bubbadms/public_html/application/libraries/dompdf/src/Helpers.php on line 611
+[02-Sep-2020 15:58:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/bubbadms/public_html/application/libraries/dompdf/src/Helpers.php on line 624
+[02-Sep-2020 15:59:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=' in /home/bubbadms/public_html/application/libraries/dompdf/src/Helpers.php on line 828
+[02-Sep-2020 16:26:24 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/classes/mpdfform.php on line 150
+[02-Sep-2020 16:33:27 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3150
+[02-Sep-2020 16:36:24 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/classes/mpdfform.php on line 151
+[02-Sep-2020 16:38:18 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/classes/mpdfform.php on line 150
+[02-Sep-2020 16:38:39 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3152
+[02-Sep-2020 16:39:00 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3037
+[02-Sep-2020 16:41:22 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/mpdf.php on line 3035
+[02-Sep-2020 17:03:46 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/mpdf/classes/mpdfform.php on line 151
+[02-Sep-2020 17:34:14 Asia/Calcutta] PHP Fatal error:  Class 'mPDF' not found in /home/bubbadms/public_html/application/libraries/M_pdf.php on line 13
+[02-Sep-2020 17:35:12 Asia/Calcutta] PHP Fatal error:  Class 'mPDF' not found in /home/bubbadms/public_html/application/libraries/M_pdf.php on line 13
+[02-Sep-2020 17:37:36 Asia/Calcutta] PHP Fatal error:  Class 'mPDF' not found in /home/bubbadms/public_html/application/libraries/M_pdf.php on line 13
+[02-Sep-2020 17:38:23 Asia/Calcutta] PHP Fatal error:  Interface 'Psr\Log\LoggerAwareInterface' not found in /home/bubbadms/public_html/application/third_party/mpdf/src/Mpdf.php on line 37
+[02-Sep-2020 17:43:49 Asia/Calcutta] PHP Fatal error:  require_once(): Failed opening required '/home/bubbadms/public_html/application/libraries/third_party/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bubbadms/public_html/application/libraries/M_pdf.php on line 4
+[02-Sep-2020 17:45:32 Asia/Calcutta] PHP Fatal error:  require_once(): Failed opening required '/home/bubbadms/public_html/application/libraries/third_party/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bubbadms/public_html/application/libraries/M_pdf.php on line 4
+[02-Sep-2020 17:46:02 Asia/Calcutta] PHP Fatal error:  Unsupported operand types in /home/bubbadms/public_html/application/third_party/vendor/mpdf/mpdf/src/Mpdf.php on line 1574
+[02-Sep-2020 18:06:03 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/vendor/mpdf/mpdf/src/Mpdf.php on line 3594
+[02-Sep-2020 18:16:03 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/bubbadms/public_html/application/third_party/vendor/mpdf/mpdf/src/Mpdf.php on line 3581
+[10-Sep-2020 12:52:33 Asia/Calcutta] PHP Fatal error:  require(): Failed opening required '/home/bubbadms/public_html/application/controllers/api/third_party/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/bubbadms/public_html/application/controllers/api/Getotp.php on line 3
+[22-Sep-2020 13:29:54 Asia/Calcutta] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/bubbadms/public_html/application/controllers/Home.php on line 408
+[22-Sep-2020 13:31:47 Asia/Calcutta] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/bubbadms/public_html/application/controllers/Home.php on line 408
+[22-Sep-2020 13:31:50 Asia/Calcutta] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/bubbadms/public_html/application/controllers/Home.php on line 408
+[17-Dec-2020 13:07:09 Asia/Calcutta] PHP Fatal error:  Cannot use empty array elements in arrays in /home/bubbadms/public_html/application/controllers/api/Packagelist.php on line 98

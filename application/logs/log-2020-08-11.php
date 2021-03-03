@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-08-11 00:00:45 --> 404 Page Not Found: Wp-admin/install.php
+ERROR - 2020-08-11 02:02:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-08-11 04:28:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-11 05:39:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-11 07:20:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-11 07:40:06 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-08-11 08:27:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-11 09:07:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-11 09:36:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-11 09:44:59 --> 404 Page Not Found: Img/logo.png
+ERROR - 2020-08-11 11:34:36 --> 404 Page Not Found: Admin/dashboard
+ERROR - 2020-08-11 11:34:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-08-11 11:36:38 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-11 11:36:53 --> 404 Page Not Found: Assets/back
+ERROR - 2020-08-11 11:37:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-08-11 11:37:22 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-11 11:37:25 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-11 11:49:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-11 11:51:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-11 11:51:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-11 12:23:44 --> 404 Page Not Found: Cgi-bin/config.exp
+ERROR - 2020-08-11 12:27:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-08-11 17:18:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-08-11 17:41:34 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-11 18:57:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-11 19:13:40 --> 404 Page Not Found: Sqlphp/index
+ERROR - 2020-08-11 19:13:40 --> 404 Page Not Found: Adminphp/index
+ERROR - 2020-08-11 19:18:15 --> 404 Page Not Found: _adminerphp/index
+ERROR - 2020-08-11 20:42:08 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-08-11 20:42:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-11 20:54:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-11 22:30:49 --> 404 Page Not Found: Faviconico/index

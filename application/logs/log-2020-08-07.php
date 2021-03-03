@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-08-07 00:25:10 --> 404 Page Not Found: Joinfreephp/index
+ERROR - 2020-08-07 01:51:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-07 03:50:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-07 06:18:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-07 07:26:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-07 07:58:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-07 08:00:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-07 08:00:34 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2020-08-07 08:00:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-08-07 09:55:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-07 11:47:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-07 13:26:58 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-08-07 13:46:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-07 15:28:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-08-07 15:44:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-07 17:51:03 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-07 17:51:08 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-07 17:51:11 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-07 17:51:24 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-07 17:51:36 --> 404 Page Not Found: Assets/images
+ERROR - 2020-08-07 18:31:32 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-07 19:15:17 --> 404 Page Not Found: Assets/js
+ERROR - 2020-08-07 23:06:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-07 23:18:44 --> 404 Page Not Found: Joinfreephp/index
+ERROR - 2020-08-07 23:34:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-07 23:49:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-07 23:49:42 --> 404 Page Not Found: Loginphp/index
+ERROR - 2020-08-07 23:59:41 --> 404 Page Not Found: Contactphp/index
